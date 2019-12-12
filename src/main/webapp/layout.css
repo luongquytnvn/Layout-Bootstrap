@@ -1,0 +1,22 @@
+header {
+    background: blue;
+    width: 100%;
+    height: 200px;
+}
+nav {
+    background: aqua;
+    width: 100%;
+    height: 50px;
+}
+article {
+    background: aquamarine;
+    width: 70%;
+    height: 400px;
+    float: left;
+}
+aside {
+    background: #b2f588;
+    width: 30%;
+    height: 400px;
+    float: left;
+}
